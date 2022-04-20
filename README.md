@@ -38,3 +38,4 @@ class Main {
 | LinkedIn      | [Ссылка](https://github.com/Userstree/jusan-git) | 3 часа        |
 | WhatsApp      | [Ссылка](https://github.com/Userstree/jusan-git) | 30 минут      |
 | Telegram      | [Ссылка](https://github.com/Userstree/jusan-git) | 5 минут       |
+script username.sh gives my name in output
